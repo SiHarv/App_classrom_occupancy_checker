@@ -3,6 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+# ESP32 Code Repository: 
+https://github.com/SiHarv/ESP32-Code-Classroom-Occupancy-Checker
+
 
 This project is a starting point for a Flutter application.
 
